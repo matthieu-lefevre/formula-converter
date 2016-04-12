@@ -1,8 +1,8 @@
 package com.mlefevre.maths;
 
-import com.sgcib.fip.common.maths.converter.FormulaConverter;
-import com.sgcib.fip.common.maths.domain.Formula;
-import com.sgcib.fip.common.maths.parser.FormulaParser;
+import com.mlefevre.maths.converter.FormulaConverter;
+import com.mlefevre.maths.domain.Formula;
+import com.mlefevre.maths.parser.FormulaParser;
 
 public class FormulaBuilder {
 
