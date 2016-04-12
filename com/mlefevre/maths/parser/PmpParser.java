@@ -1,9 +1,9 @@
 package com.mlefevre.maths.parser;
 
-import com.sgcib.fip.common.maths.domain.Formula;
-import com.sgcib.fip.common.maths.domain.FormulaElement;
-import com.sgcib.fip.common.maths.domain.FormulaElements;
-import com.sgcib.fip.common.maths.domain.enumeration.FormulaElementType;
+import com.mlefevre.maths.domain.Formula;
+import com.mlefevre.maths.domain.FormulaElement;
+import com.mlefevre.maths.domain.FormulaElements;
+import com.mlefevre.maths.domain.enumeration.FormulaElementType;
 
 public class PmpParser implements FormulaParser {
 
