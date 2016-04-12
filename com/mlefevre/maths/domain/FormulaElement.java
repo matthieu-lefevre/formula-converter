@@ -1,6 +1,6 @@
 package com.mlefevre.maths.domain;
 
-import com.sgcib.fip.common.maths.domain.enumeration.FormulaElementType;
+import com.mlefevre.maths.domain.enumeration.FormulaElementType;
 
 import java.util.ArrayList;
 import java.util.List;
