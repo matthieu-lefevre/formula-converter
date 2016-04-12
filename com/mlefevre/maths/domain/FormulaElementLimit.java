@@ -1,6 +1,6 @@
 package com.mlefevre.maths.domain;
 
-import com.sgcib.fip.common.maths.domain.enumeration.FormulaElementLimitType;
+import com.mlefevre.maths.domain.enumeration.FormulaElementLimitType;
 
 public class FormulaElementLimit {
 
