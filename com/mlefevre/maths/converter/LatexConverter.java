@@ -1,8 +1,8 @@
 package com.mlefevre.maths.converter;
 
-import com.sgcib.fip.common.maths.domain.Formula;
-import com.sgcib.fip.common.maths.domain.FormulaElement;
-import com.sgcib.fip.common.maths.domain.FormulaElements;
+import com.mlefevre.maths.domain.Formula;
+import com.mlefevre.maths.domain.FormulaElement;
+import com.mlefevre.maths.domain.FormulaElements;
 
 public class LatexConverter implements FormulaConverter {
 
