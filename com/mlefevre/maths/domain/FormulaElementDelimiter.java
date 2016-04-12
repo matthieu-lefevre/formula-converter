@@ -1,7 +1,7 @@
 package com.mlefevre.maths.domain;
 
-import com.sgcib.fip.common.maths.domain.enumeration.FormulaElementDelimiterPosition;
-import com.sgcib.fip.common.maths.domain.enumeration.FormulaElementDelimiterType;
+import com.mlefevre.maths.domain.enumeration.FormulaElementDelimiterPosition;
+import com.mlefevre.maths.domain.enumeration.FormulaElementDelimiterType;
 
 public class FormulaElementDelimiter {
 
