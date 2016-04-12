@@ -1,6 +1,6 @@
 package com.mlefevre.maths.converter;
 
-import com.sgcib.fip.common.maths.domain.Formula;
+import com.mlefevre.maths.domain.Formula;
 
 public interface FormulaConverter {
 
